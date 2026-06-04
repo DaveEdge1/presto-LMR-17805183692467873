@@ -7,8 +7,8 @@ authors:
 version: v0.0.0
 date-released: "2026-06-26"
 references:
+- type: software
 title: "Last Millenium Reanalysis PReSto Template"
-type: software
 authors:
   - family-names: Edge
     given-names: Dave
